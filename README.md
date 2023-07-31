@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZXJ-DSA
-- 👀 I’m interested in Graph Data Algorithms and Graph Data Analytics.
-- 🌱 I’m currently a PhD student in HKUST, majoring in Data Science and Analytics.
-- 💞️ I’m looking to collaborate on Graph Data Related Research Works.
+- 👀 I’m interested in Graph Database Management and Graph Algorithms.
+- 🌱 I’m a Ph.D. candidate at HKUST, majoring in Data Science and Analytics.
+- 💞️ I’m looking to collaborate on Graph Database Related Research Works.
 - 📫 You can reach me by xzhouby@connect.ust.hk
 
 <!---
