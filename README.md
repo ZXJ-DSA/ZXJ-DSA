@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ZXJ-DSA
-- 👀 I’m interested in Graph Database Management and Graph Algorithms.
-- 🌱 I’m a Ph.D. candidate at HKUST, majoring in Data Science and Analytics.
-- 💞️ I’m looking to collaborate on Graph Database Related Research Works.
-- 📫 You can reach me by xzhouby@connect.ust.hk
+- 👋 Hi, I’m Xinjie Zhou.
+- 🌱 I’m a Ph.D. candidate at HKUST, supervised by Prof. Xiaofang Zhou and Dr. Lei Li.
+- 👀 I’m interested in shortest path algorithms, spatial-temporal database, and graph database.
+- 💞️ I’m looking to collaborate on graph database related research works.
+- 📫 You can reach me at xzhouby@connect.ust.hk
 
 <!---
 ZXJ-DSA/ZXJ-DSA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
