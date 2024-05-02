@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Xinjie Zhou.
-- 🌱 I’m a Ph.D. candidate at HKUST, supervised by Prof. Xiaofang Zhou and Dr. Lei Li.
-- 👀 I’m interested in shortest path algorithms, spatial-temporal database, and graph database.
-- 💞️ I’m looking to collaborate on graph database related research works.
+- 🌱 I’m a Ph.D. candidate at HKUST, supervised by [Prof. Xiaofang Zhou](https://sites.google.com/view/xiaofang-zhou) and [Dr. Lei Li](https://sites.google.com/view/leili).
+- 👀 I’m interested in shortest path algorithms, spatial-temporal databases, and graph databases.
+- 💞️ I’m looking to collaborate on graph database-related research works.
 - 📫 You can reach me at xzhouby@connect.ust.hk
 
 <!---
